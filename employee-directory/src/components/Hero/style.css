@@ -1,9 +1,9 @@
   
 .hero {
-  height: 200px;
+  height: 150px;
   background-size: cover;
   background-position: center;
-  background-color:#040254;
+  background-color:#29288f;
 
   position: relative;
 }
